@@ -1,5 +1,7 @@
 # FSOT Market Monitor
 
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 **Full-stack financial monitoring, intelligent Monte Carlo, Buy/Hold/Sell paper trading, and forward prediction journals** powered by **Fluid Spacetime Omni-Theory (FSOT 2.1)**.
 
 | | |
