@@ -1,0 +1,11 @@
+fsot-market-monitor
+Copyright 2026 Damian Arthur Palumbo
+
+This product is FSOT Market Monitor: market data monitoring, Monte Carlo, and
+Buy/Hold/Sell paper trading under FSOT 2.1. Research tool only; not
+financial advice. The broker adapter is dry-run by default.
+
+This repository is part of the FSOT (Fluid Spacetime Omni-Theory) family.
+Theory authority is vendor/fsot_compute.py in
+https://github.com/dappalumbo91/FSOT-2.1-Lean (pin AEB2AD), also by
+Damian Arthur Palumbo and licensed under the Apache License 2.0.
